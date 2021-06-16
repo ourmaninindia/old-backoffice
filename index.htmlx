@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+   @@include('./header.html')
+
+<h1>Hello</h1>
+
+   Content
+
+   @@include('./footer.html')
+</body>
+</html>
